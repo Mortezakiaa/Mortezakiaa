@@ -11,7 +11,7 @@ const MortezaKia = {
     language: ["javaScript", "typeScript" , "python"],         
     myStack: {             
         frontEnd: {             
-          frameworks: ["react.js", "next.js", "koa.js", "Nest.js"],                   
+          frameworks: ["react.js", "next.js"],                   
                     
         },   
         backEnd:{
