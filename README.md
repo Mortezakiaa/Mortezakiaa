@@ -7,7 +7,7 @@ I am a web Developer
 ```javascript
 const MortezaKia = {     
     pronouns: "He" | "Him",     
-    aboutMe: "I'm Web Developer"
+    aboutMe: "Im FullStack Developer"
     language: ["javaScript", "typeScript" , "python"],         
     myStack: {             
         frontEnd: {             
@@ -15,7 +15,9 @@ const MortezaKia = {
           stateManagment: ["redux" , "reduxToolkit"],         
         },   
         backEnd:{
-          frameworks:["Django" , "Django-Rest"]
+          frameworks:["Django" , "Django-Rest"],
+          architectures: ["MVC", "MVT"],
+          API: ["postman", "swagger"],
           DataBases: ["Redis", "PostgreSQL"],
         }      
    },    
