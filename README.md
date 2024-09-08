@@ -11,14 +11,14 @@ const MortezaKia = {
     language: ["javaScript", "typeScript" , "python"],         
     myStack: {             
         frontEnd: {             
-          frameworks: ["react.js", "next.js"],
-          stateManagment: ["redux" , "reduxToolkit"],         
+          frameworks: ["react.js", "next.js" , "react-native"],
+          stateManagment: ["redux" , "reduxToolkit" , "zustand"],         
         },   
         backEnd:{
           frameworks:["Django" , "Django-Rest"],
           architectures: ["MVC", "MVT"],
           API: ["postman", "swagger"],
-          DataBases: ["Redis", "PostgreSQL"],
+          DataBases: ["PostgreSQL" , "mongodb"],
         }      
    },    
    currentFocus: "Python Django and related technology for backEnd Development",     
