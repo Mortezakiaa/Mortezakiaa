@@ -7,12 +7,11 @@ I am a web Developer
 ```javascript
 const MortezaKia = {     
     pronouns: "He" | "Him",     
-    aboutMe: "Im FullStack Developer"
     language: ["javaScript", "typeScript" , "python"],         
     myStack: {             
         frontEnd: {             
           frameworks: ["react.js", "next.js" , "react-native"],
-          stateManagment: ["redux" , "reduxToolkit" , "zustand"],         
+          state_management: ["redux" , "reduxToolkit" , "zustand"],         
         },   
         backEnd:{
           frameworks:["Django" , "Django-Rest"],
