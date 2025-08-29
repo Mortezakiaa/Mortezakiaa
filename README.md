@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm morteza</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mortezakiaa" alt="mortezakiaa" /></a> </p>
-
 - 📫 How to reach me **morteza.kia8700@gmail.com**
 
 <p align="left">
