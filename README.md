@@ -1,7 +1,7 @@
 <h1 align="center">Morteza Kia</h1>
 
 <p align="center">
-  Full-Stack Developer focused on Django, Django REST Framework, React, Next.js, Linux, and automated delivery pipelines.
+  Full-Stack Developer focused on Django, Django REST Framework, React, Next.js, Linux, automated testing, and delivery pipelines.
 </p>
 
 <p align="center">
@@ -18,7 +18,7 @@ I build practical web applications with clean APIs, reliable frontends, and depl
 - Frontend development with TypeScript, React, Next.js, Tailwind CSS, and Redux
 - Linux-based development workflows, including Kali Linux for security-focused environments
 - Containerization and CI/CD with Docker, GitHub Actions, Azure, and automated checks
-- API testing, debugging, and collaboration with Postman, Git, and Figma
+- API testing, E2E testing, debugging, and collaboration with Postman, Playwright, Git, and Figma
 
 ---
 
@@ -54,6 +54,7 @@ I build practical web applications with clean APIs, reliable frontends, and depl
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-111827?style=for-the-badge&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
@@ -66,7 +67,7 @@ I build practical web applications with clean APIs, reliable frontends, and depl
 - Connecting frontend applications to production-ready backend APIs
 - Setting up Docker-based local environments and deployment workflows
 - Creating CI/CD pipelines with GitHub Actions or Azure DevOps
-- Improving application quality through testing, reviews, and automation
+- Improving application quality with unit tests, Playwright E2E tests, reviews, and automation
 
 ---
 
