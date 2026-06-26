@@ -1,7 +1,7 @@
 <h1 align="center">Morteza Kia</h1>
 
 <p align="center">
-  Full-Stack Developer focused on Django, Django REST Framework, React, Next.js, Linux, automated testing, and delivery pipelines.
+  Full-Stack Developer focused on Django, Django REST Framework, React, Next.js, monorepo architecture, automated testing, and delivery pipelines.
 </p>
 
 <p align="center">
@@ -16,6 +16,7 @@ I build practical web applications with clean APIs, reliable frontends, and depl
 
 - Backend development with Python, Django, Django REST Framework, PostgreSQL, and REST APIs
 - Frontend development with TypeScript, React, Next.js, Tailwind CSS, and Redux
+- Monorepo architecture with Turborepo and Nx for scalable applications, shared packages, build caching, and clear project boundaries
 - Linux-based development workflows, including Kali Linux for security-focused environments
 - Containerization and CI/CD with Docker, GitHub Actions, Azure, and automated checks
 - API testing, E2E testing, debugging, and collaboration with Postman, Playwright, Git, and Figma
@@ -41,6 +42,8 @@ I build practical web applications with clean APIs, reliable frontends, and depl
 ![Next.js](https://img.shields.io/badge/Next.js-111111?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Turborepo](https://img.shields.io/badge/Turborepo-111111?style=for-the-badge&logo=turborepo&logoColor=white)
+![Nx](https://img.shields.io/badge/Nx-143055?style=for-the-badge&logo=nx&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
@@ -65,6 +68,7 @@ I build practical web applications with clean APIs, reliable frontends, and depl
 - Designing REST APIs and backend services with Django REST Framework
 - Building responsive, maintainable frontend interfaces with React and Next.js
 - Connecting frontend applications to production-ready backend APIs
+- Architecting monorepos with Turborepo and Nx, including workspace structure, dependency boundaries, shared libraries, and task caching
 - Setting up Docker-based local environments and deployment workflows
 - Creating CI/CD pipelines with GitHub Actions or Azure DevOps
 - Improving application quality with unit tests, Playwright E2E tests, reviews, and automation
